@@ -8,7 +8,7 @@ const POSTS = [
     title: "Skincare no Inverno: O que muda?",
     excerpt: "Descubra como adaptar sua rotina de cuidados para manter a pele hidratada e protegida nos dias mais frios.",
     date: "12 AGO 2024",
-    image: "https://images.unsplash.com/photo-1556228720-19163b272449?q=80&w=1032&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=1976&auto=format&fit=crop"
   },
   {
     id: 2,
