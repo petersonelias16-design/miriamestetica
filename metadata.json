@@ -1,0 +1,8 @@
+{
+  "name": "Miriah Estética",
+  "description": "Elegant aesthetic clinic web app featuring AI-powered image analysis and beauty advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
